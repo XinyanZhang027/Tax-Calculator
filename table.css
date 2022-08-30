@@ -1,0 +1,14 @@
+.row-cols-2{
+    height:45px;
+    line-height: 45px;
+}
+#result_table{
+    float: left;
+}
+#tax_table{
+    float: left;
+}
+#cal_btn{
+    height: 70px;
+    margin: 15px auto 0 auto;
+}
